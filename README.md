@@ -18,7 +18,10 @@ This project aims to perform customer segmentation for e-commerce companies by a
 - [Contact](#contact)
 
 ## Installation
-Technologies and Tools: Programming Languages: Python. Libraries and Frameworks: Machine Learning: Scikit-learn, TensorFlow. Data Manipulation: Python Pandas, NumPy. Visualization: Matplotlib, Plotly, Seaborn
+Technologies and Tools:
+Programming Languages: Python
+Libraries and Frameworks: Machine Learning: Scikit-learn, TensorFlow
+Data Manipulation: Python Pandas, NumPy. Visualization: Matplotlib, Plotly, Seaborn
 
 ## Usage
 Run ipybn files
@@ -35,5 +38,5 @@ Aggregated transaction features (Total Amount, Average Amount, Transaction Count
 
 ## Contact
 If there are any questions or concerns, I can be reached at:
-##### [github: JuanJSegovia, McKinnonJulia, ritzwoller1, Rock-Roll1968](https://github.com/JuanJSegovia, McKinnonJulia, ritzwoller1, Rock-Roll1968)
-##### [email: jseg0624@yahoo.com, juliamckinnon1234@gmail.com, ritzwoller@hotmail.com, daphinenyangena99@gmail.com, ernesto.v.garcia@outlook.com](mailto:jseg0624@yahoo.com, juliamckinnon1234@gmail.com, ritzwoller@hotmail.com, daphinenyangena99@gmail.com, ernesto.v.garcia@outlook.com)
+##### [github: JuanJSegovia, McKinnonJulia, ritzwoller1, McKinnonJulia, ritzwoller1, Rock-Roll1968)
+##### [email: jseg0624@yahoo.com, juliamckinnon1234@gmail.com, ritzwoller@hotmail.com, daphinenyangena99@gmail.com, ernesto.v.garcia@outlook.com]
